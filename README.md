@@ -90,9 +90,6 @@ pm2 delete all
 npm install -g ffmpeg imagemagick git yarn && npm i && node --no-warnings index.js
 ```
 ----
-
-- [x] **Configuración** <details><summary>**Ajustes del Servidor - SharksBot-MD**</summary><img src="https://i.imgur.com/Ly0MffH.jpeg"></details>
-----
 ## 🦈 INSTALACIÓN PARA WINDOWS/VPS/RDP 🦈
 <a href="https://youtu.be/SaxYKnnZo3E">
 <img src="https://img.shields.io/badge/Tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Tutorial"> </a>
